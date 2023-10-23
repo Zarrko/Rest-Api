@@ -1,0 +1,12 @@
+/Users/zackmwangi/Desktop/RestApi/Movies.Application/bin/Debug/net7.0/Movies.Application.deps.json
+/Users/zackmwangi/Desktop/RestApi/Movies.Application/bin/Debug/net7.0/Movies.Application.dll
+/Users/zackmwangi/Desktop/RestApi/Movies.Application/bin/Debug/net7.0/Movies.Application.pdb
+/Users/zackmwangi/Desktop/RestApi/Movies.Application/obj/Debug/net7.0/Movies.Application.csproj.AssemblyReference.cache
+/Users/zackmwangi/Desktop/RestApi/Movies.Application/obj/Debug/net7.0/Movies.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zackmwangi/Desktop/RestApi/Movies.Application/obj/Debug/net7.0/Movies.Application.AssemblyInfoInputs.cache
+/Users/zackmwangi/Desktop/RestApi/Movies.Application/obj/Debug/net7.0/Movies.Application.AssemblyInfo.cs
+/Users/zackmwangi/Desktop/RestApi/Movies.Application/obj/Debug/net7.0/Movies.Application.csproj.CoreCompileInputs.cache
+/Users/zackmwangi/Desktop/RestApi/Movies.Application/obj/Debug/net7.0/Movies.Application.dll
+/Users/zackmwangi/Desktop/RestApi/Movies.Application/obj/Debug/net7.0/refint/Movies.Application.dll
+/Users/zackmwangi/Desktop/RestApi/Movies.Application/obj/Debug/net7.0/Movies.Application.pdb
+/Users/zackmwangi/Desktop/RestApi/Movies.Application/obj/Debug/net7.0/ref/Movies.Application.dll

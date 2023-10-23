@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5A1bEDu/sLIgWKFGjRephm2+Kx04iCJZJRBeGxx5wS4IqcSZyAoRlvUDyVBQEJ/e0tfd5U66wcdPRcfiWtd7og==",
+  "success": true,
+  "projectFilePath": "/Users/zackmwangi/Desktop/RestApi/Movies.Application/Movies.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/zackmwangi/.nuget/packages/dapper/2.1.11/dapper.2.1.11.nupkg.sha512",
+    "/Users/zackmwangi/.nuget/packages/fluentvalidation/11.7.1/fluentvalidation.11.7.1.nupkg.sha512",
+    "/Users/zackmwangi/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.7.1/fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
+    "/Users/zackmwangi/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/zackmwangi/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/zackmwangi/.nuget/packages/npgsql/7.0.6/npgsql.7.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

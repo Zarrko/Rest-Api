@@ -1,0 +1,12 @@
+/Users/zackmwangi/Desktop/RestApi/Movies.Contracts/bin/Debug/net7.0/Movies.Contracts.deps.json
+/Users/zackmwangi/Desktop/RestApi/Movies.Contracts/bin/Debug/net7.0/Movies.Contracts.dll
+/Users/zackmwangi/Desktop/RestApi/Movies.Contracts/bin/Debug/net7.0/Movies.Contracts.pdb
+/Users/zackmwangi/Desktop/RestApi/Movies.Contracts/obj/Debug/net7.0/Movies.Contracts.csproj.AssemblyReference.cache
+/Users/zackmwangi/Desktop/RestApi/Movies.Contracts/obj/Debug/net7.0/Movies.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zackmwangi/Desktop/RestApi/Movies.Contracts/obj/Debug/net7.0/Movies.Contracts.AssemblyInfoInputs.cache
+/Users/zackmwangi/Desktop/RestApi/Movies.Contracts/obj/Debug/net7.0/Movies.Contracts.AssemblyInfo.cs
+/Users/zackmwangi/Desktop/RestApi/Movies.Contracts/obj/Debug/net7.0/Movies.Contracts.csproj.CoreCompileInputs.cache
+/Users/zackmwangi/Desktop/RestApi/Movies.Contracts/obj/Debug/net7.0/Movies.Contracts.dll
+/Users/zackmwangi/Desktop/RestApi/Movies.Contracts/obj/Debug/net7.0/refint/Movies.Contracts.dll
+/Users/zackmwangi/Desktop/RestApi/Movies.Contracts/obj/Debug/net7.0/Movies.Contracts.pdb
+/Users/zackmwangi/Desktop/RestApi/Movies.Contracts/obj/Debug/net7.0/ref/Movies.Contracts.dll
