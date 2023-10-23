@@ -1,5 +1,0 @@
-/Users/zackmwangi/Desktop/RestApi/Movies.Application/obj/Debug/net6.0/Movies.Application.csproj.AssemblyReference.cache
-/Users/zackmwangi/Desktop/RestApi/Movies.Application/obj/Debug/net6.0/Movies.Application.GeneratedMSBuildEditorConfig.editorconfig
-/Users/zackmwangi/Desktop/RestApi/Movies.Application/obj/Debug/net6.0/Movies.Application.AssemblyInfoInputs.cache
-/Users/zackmwangi/Desktop/RestApi/Movies.Application/obj/Debug/net6.0/Movies.Application.AssemblyInfo.cs
-/Users/zackmwangi/Desktop/RestApi/Movies.Application/obj/Debug/net6.0/Movies.Application.csproj.CoreCompileInputs.cache
