@@ -24,7 +24,8 @@ public class MoviesController : ControllerBase
     }
     
     [ApiVersion("1.0")]
-    [Authorize(AuthConstants.TrustedMemberPolicyName)]
+    // [Authorize(AuthConstants.TrustedMemberPolicyName)]
+    [ServiceFilter(typeof(ApiKeyAuthFilter))]
     [HttpPost(ApiEndpoints.Movies.Create)]
     [ProducesResponseType(typeof(MovieResponse), StatusCodes.Status201Created)]
     [ProducesResponseType(typeof(ValidationFailureResponse), StatusCodes.Status400BadRequest)]
@@ -145,6 +146,7 @@ public class MoviesController : ControllerBase
     [ProducesResponseType(StatusCodes.Status404NotFound)]
     public async Task<IActionResult> Delete([FromRoute] Guid id , CancellationToken token)
     {
+        var userId = HttpContext.GetUserId();
         var deleted = await _movieService.DeleteByIdAsync(id, token);
 
         if (!deleted)
