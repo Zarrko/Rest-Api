@@ -1,0 +1,13 @@
+namespace _2Movies.Contracts.Responses.V1;
+
+public class ValidationFailureResponse
+{
+    public required IEnumerable<ValidationResponse> Errors { get; init; }
+}
+
+public class ValidationResponse
+{
+    public required string PropertyName { get; init; }
+    
+    public required string Message { get; init; }
+}
